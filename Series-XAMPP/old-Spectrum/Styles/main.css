@@ -1,0 +1,88 @@
+.navbar-brand .wallpoet{
+	font-family: 'Orbitron', sans-serif;
+}
+
+.navbar-brand,
+.navbar-nav li a {
+    padding-top: 2em;
+    padding-bottom: 2em;
+}
+.navbar-header
+.navbar-brand{
+    padding-top: 0;
+    padding-left: 0;
+    padding-right: 0px;
+}
+
+header {
+    background-color: #000;
+    color:#fff;
+}
+.navbar-custom-picture {
+    padding-top:0;
+    padding-right:0;
+}
+
+.nav-link {
+    color:#ffffff;
+
+}
+
+.error::before {
+    content:"*";
+    color: #FF0000;
+}
+.req-text {
+    color:red;
+}
+
+.img-holder {
+    width: 100%;
+}
+
+.img-holder img {
+    width: 100%;
+}
+/*
+.social-btn-container {
+    padding-right:2em;
+}*/
+
+.flex-container {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+.flex-content {
+  flex: 1;
+}
+
+.footer {
+    display: flex;
+    background: #222;
+    padding: 2em;
+    /*justify-content: center;*/
+    align-items: center;
+}
+
+.footer div {
+    flex: 1;
+    /*margin:auto;*/
+    align-self: center;
+}
+
+i.fa {
+    font-size: 2em;
+}
+
+.nav-text {
+    line-height: 1em;
+}
+.bottom-spectrum {
+    background-color:black;
+    color: white;
+}
+.ultimate-container {
+    margin-left:70%;
+}

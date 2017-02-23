@@ -1,0 +1,10 @@
+<?php
+ 
+public function MyName();{
+
+	echo "aaron milla";
+}
+
+	echo "My name is <br>";
+	MyName();
+?>

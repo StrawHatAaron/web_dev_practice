@@ -1,0 +1,31 @@
+body{
+	background: #999;
+	font-family: arial;
+}
+
+h1, h2 {
+	color: #500;
+	background: white;
+	/*padding: top, right, bottom, left;*/
+	padding: 5px 0px 5px 200px;
+}
+
+li {
+	color: #005;
+	background : green;
+}
+
+a, p {
+	color :#050;
+}
+/*dot stands for class and classes will override*/
+.secondary{
+		background: none;
+		color: #700;
+	}
+#primary{
+	background: none;
+	color: #010;
+	padding: 200px, 0px, 0px, 500px;
+}
+

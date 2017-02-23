@@ -1,0 +1,11 @@
+<html>
+<head>
+<title>A BASIC HTML FORM</title>
+
+
+<input type = "text" name = "name">
+
+<?php
+echo '';
+?>
+</head>

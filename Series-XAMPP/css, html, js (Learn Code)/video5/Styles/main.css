@@ -1,0 +1,12 @@
+p {
+	color: red;
+
+}
+
+p .pp {
+	color: blue;
+}
+
+p .pp.other {
+	color: green;
+}
